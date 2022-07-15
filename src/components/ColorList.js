@@ -1,13 +1,13 @@
 import React from "react";
 
 function ColorList() {
-  const colors = [
-    "firebrick",
-    "rebeccapurple",
-    "salmon",
-    "darkslategray",
-    "hotpink",
-  ];
+	const colors = [
+	  "firebrick",
+	  "rebeccapurple",
+	  "salmon",
+	  "darkslategray",
+	  "hotpink",
+	];
 
   return (
     <div>
